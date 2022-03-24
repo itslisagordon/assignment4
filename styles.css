@@ -1,1 +1,106 @@
 /* Write your CSS here! */
+
+h1{
+    color:#333533;
+    font-family:'Playfair Display', serif;
+    font-size: 100px;
+    text-align: center;
+    margin: 1px
+}
+
+body{
+    margin: 8px;
+    display: block;
+}
+
+h2{
+    margin: 20px;
+    text-align: center;
+    font-size: 50px;
+    font-family:'Playfair Display', serif;
+    color:#333533;
+}
+
+.history{
+    font-size: 50px;
+    text-align: center;
+    color: #333533;
+    font-family:'Playfair Display', serif;
+}
+
+#info{
+font-size: 25px
+
+}
+
+body{
+    background-color: #a4ac86;
+    margin: 8px;
+    display: block;
+
+}
+
+.center {
+    text-align: center;
+    list-style-position: inside;
+    font-size: 35px;
+    font-family:'Playfair Display', serif;
+    color:#333533;
+    margin: 0;
+    padding:0;
+   
+  }
+
+  #btn1 {
+    background-color: #97a598; /* Green */
+    border: none;
+    color: #333533;
+    padding: 5px 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 8px;
+  }
+  
+  centerP{
+      text-align: center;
+  }
+  
+ 
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+ }
+
+ li {
+    float: left;
+ }
+
+ li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+ }
+
+ li a:hover {
+    background-color: rgb(81, 22, 22);
+ }
+
+ #mainHeading{
+     color: red;
+ }
+
+ #testP{
+     color: green;
+ }
+
+ .funParagraph{
+   color: green;
+ }
